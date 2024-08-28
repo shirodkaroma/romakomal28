@@ -1,11 +1,6 @@
 <html>
 <body>
-<h2>Hi This is roma and I have deployed this on tomcat server</h2>
-<h2>This is a new line</h2>
-<h2>This is 2nd new line</h2>
-<h2>This is 3rd new line</h2>
-<h2>This is 3rd new line</h2>
-<h2>This is 4th new line</h2>
-<h3>This is test line.</h3>
+<h1>Hi This is Aaryan</h1>
+<h2>i have deployed this on tomcat server</h2>
 </body>
 </html>
